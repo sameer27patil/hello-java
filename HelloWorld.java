@@ -5,11 +5,8 @@ public class HelloWorld {
     System.out.println("Hello, HCLtech");
     System.out.println("This is Aarya Patil");
     System.out.println("This is Sameer Patil");
-    System.out.println("This is Sameer Patil");
-    System.out.println("This is Sameer Narsing Patil");
-    System.out.println("This is Sameer Narsing Patil");
-    System.out.println("This is Sameer Narsing Patil");
-    System.out.println("This is Sameer Narsing Patil");
-    System.out.println("This is Sameer Narsing Patil");
+    System.out.println("This is Bhagyashri Patil");
+    System.out.println("This is Bhagyashri Patil");
+    System.out.println("This is Bhagyashri Patil");
   }
 }
