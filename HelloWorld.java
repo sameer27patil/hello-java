@@ -7,12 +7,3 @@ public class HelloWorld {
     System.out.println("This is Sameer Patil");
     System.out.println("This is Bhagyashri Patil");
     System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-    System.out.println("This is Bhagyashri Patil");
-  }
-}
