@@ -46,6 +46,7 @@ pipeline {
              steps{
                  script{
                        sh "docker rmi -f spring3_app:$VERSION"
+                       sh "docker rmi -f 890742609766.dkr.ecr.ap-south-1.amazonaws.com/spring3_app:$VERSION"
                        
                  }
              }
